@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Books-World" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dev-Geeks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IMP/flutter_windows_3.7.6-stable/flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bookingjini-icons" vcs="Git" />
+  </component>
+</project>
